@@ -1,0 +1,38 @@
+_repo: Een-acht-en-twintigtal-voorwerpen-uit-de-natuurlijke-geschiedenis-geschikt-voor-rederijkers--__32180
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ribbius, Gerlacus
+    gutenberg_agent_id: '35714'
+    url: http://www.gutenberg.org/2009/agents/35714
+description: ''
+gutenberg_issued: '2010-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32180'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Poetry'
+- !lcsh 'Dutch poetry'
+- !lcc 'PT'
+tableOfContents: De Uil (Strix flammea) -- De Eend (Anas boschas) -- De Gans (Anas
+  anser) -- De Huismusch (Fringilla domestica) -- De Mol (Talpa Europaea) -- De Elft
+  (Clupea alosa) -- De Vink (Fringilla coelebs) -- De Spreeuw (Sturnus vulgaris) --
+  De Bloedzuiger (Hirudo medicinalis) -- De Duif (Columba livia) -- De Ezel (Equus
+  asinus) -- De Snoek (Esox lucius) -- De Aap (Simia Silvanus) -- De Kikvorsch (Rana
+  esculenta) -- De Muis (Mus musculus) -- De Spin (Aranea domestica) -- De Kat (Felis
+  domestica) -- De Koe (Vacca of Bos taurus) -- Het Varken (Sus Scrofa domesticus)
+  -- Het Paard (Equus caballus) -- De Ooijevaar (Ciconia alba) -- De Haas (Lepus timidus)
+  -- De Hond (Canis familiaris) -- De Geit (Capra hircus) -- De Kwartel (Tetrao coturnix)
+  -- De Haan (mas) (Gallus domesticus) -- De Hen (femina) (Gallus domesticus) -- Het
+  Schaap (Ovis aries).
+title: "Een acht en twintigtal voorwerpen uit de natuurlijke geschiedenis, geschikt\
+  \ voor rederijkers- & nutsvoordrachten,\r\nin den trant van de gedichten van den\
+  \ schoolmeester, met een aanbevelend woord van wijlen Mr. J. Van Lennep"
+url: http://www.gutenberg.org/ebooks/32180
