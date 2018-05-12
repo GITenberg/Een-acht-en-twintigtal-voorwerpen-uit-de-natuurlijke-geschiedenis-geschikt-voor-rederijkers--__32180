@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35714'
     url: http://www.gutenberg.org/2009/agents/35714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32180#Een-acht-en-twintigtal-voorwerpen-uit-de-natuurlijke-geschiedenis-geschikt-voor-rederijkers--_
 gutenberg_issued: '2010-04-29'
 gutenberg_type: Text
 identifiers:
